@@ -7,7 +7,6 @@ const searchTerm = document.querySelector(".search");
 const startDate = document.querySelector(".start-date");
 const endDate = document.querySelector(".end-date");
 const searchForm = document.querySelector("form");
-const submitBtn = document.querySelector(".submit");
 
 // RESULTS NAVIGATION
 const nextBtn = document.querySelector(".next");
